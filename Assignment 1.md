@@ -7,6 +7,25 @@
 Create a blank file named "myfile"
 ~~~
 
-vim myfile.txt
+touch myfile.txt
+
+~~~
+
+Open "myfile" in vi editor
+~~~
+vi myfile
+
+~~~
+Write your name, address, email id, phone number and blood group in 5 different lines
+~~~
+vi myfile
+~~~
+Open the editor and write following 
+~~~
+Name: Mukesh Kumar mahto
+Address:
+Email: mukesh.7755@gmail.com
+Mobile:
+Blood group: A+
 
 ~~~
